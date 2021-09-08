@@ -162,4 +162,10 @@
 		<email>reception.humberston@bannatyne.co.uk</email>
 		<defaultnumber>generic</defaultnumber>
 	</item>
+	<item>
+		<name>Main number leeds</name>
+		<number>01135245990</number>
+		<email>_leeds@bannatyne.co.uk</email>
+		<defaultnumber>generic</defaultnumber>
+	</item>
 </PolyPhoneBook>
