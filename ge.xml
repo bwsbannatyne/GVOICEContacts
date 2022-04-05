@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PolyPhoneBook version="1.0">
-<item>
-                <name>George Ellwood</name>
-                <number>01325 633889‬</number>
-                <email>georgeellwood@bannatyne.co.uk</email>
-                <defaultnumber>generic</defaultnumber>
-        </item>
+	<item>
+		<name>George Ellwood</name>
+		<number>01325 633889‬</number>
+		<email>georgeellwood@bannatyne.co.uk</email>
+		<defaultnumber>generic</defaultnumber>
+	</item>
+	<item>
+		<name>John Hartshorn</name>
+		<number>+441325 633000‬</number>
+		<email>johnhartshorn@bannatyne.co.uk</email>
+		<defaultnumber>generic</defaultnumber>
+	</item>
 </PolyPhoneBook>
