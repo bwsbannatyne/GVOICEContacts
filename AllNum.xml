@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PolyPhoneBook version="1.0">
 	<item>
-		<name>ABE Fitness</name>name>
+		<name>ABE Fitness</name>
 		<number>01224981108</number>
 		<defaultnumber>generic</defaultnumber>
 	</item>
@@ -1366,7 +1366,7 @@
 		<defaultnumber>generic</defaultnumber>
 	</item>
 	<item>
-		<name>LEE Sales</name>
+		<name>LEE Swim</name>
 		<number>113 524 5999</number>
 		<defaultnumber>generic</defaultnumber>
 	</item>
@@ -1426,27 +1426,27 @@
 		<defaultnumber>generic</defaultnumber>
 	</item>
 	<item>
-		<name>LIV Admin</name>
+		<name>LOW Admin</name>
 		<number>01502341252</number>
 		<defaultnumber>generic</defaultnumber>
 	</item>
 	<item>
-		<name>LIV Reception</name>
+		<name>LOW Reception</name>
 		<number>01502452334</number>
 		<defaultnumber>generic</defaultnumber>
 	</item>
 	<item>
-		<name>LIV Fitness</name>
+		<name>LOW Fitness</name>
 		<number>01502341264</number>
 		<defaultnumber>generic</defaultnumber>
 	</item>
 	<item>
-		<name>LIV GM</name>
+		<name>LOW GM</name>
 		<number>01502341251</number>
 		<defaultnumber>generic</defaultnumber>
 	</item>
 	<item>
-		<name>LIV Sales</name>
+		<name>LOW Sales</name>
 		<number>1502 452335</number>
 		<defaultnumber>generic</defaultnumber>
 	</item>
