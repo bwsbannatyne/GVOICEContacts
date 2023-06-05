@@ -566,56 +566,6 @@
 		<defaultnumber>generic</defaultnumber>
 	</item>
 	<item>
-		<name>CHH Dep GM</name>
-		<number>01749937003</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH Bar</name>
-		<number>01749937015</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH Reception</name>
-		<number>01749937024</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH Admin</name>
-		<number>01749937004</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH HK</name>
-		<number>01749937007</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH Events</name>
-		<number>01749937011</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH Kitchen</name>
-		<number>01749937009</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH Restaurant</name>
-		<number>01749937008</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH FB</name>
-		<number>01749937010</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
-		<name>CHH GM</name>
-		<number>01749937002</number>
-		<defaultnumber>generic</defaultnumber>
-	</item>
-	<item>
 		<name>CLS Admin</name>
 		<number>01914356942</number>
 		<defaultnumber>generic</defaultnumber>
